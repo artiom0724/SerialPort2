@@ -1,2 +1,0 @@
-# SerialPort2
-None
